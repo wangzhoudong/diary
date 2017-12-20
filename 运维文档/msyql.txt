@@ -1,0 +1,2 @@
+SET GLOBAL wait_timeout=60000;
+SET GLOBAL max_allowed_packet = 500*1024*1024;
